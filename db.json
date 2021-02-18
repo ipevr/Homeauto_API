@@ -1,0 +1,16 @@
+{
+  "plugs": [
+    {
+      "title": "Test",
+      "systemCode": "101010",
+      "unitCode": "1",
+      "id": 1
+    },
+    {
+      "title": "Wohnzimmer",
+      "systemCode": "00011",
+      "unitCode": "2",
+      "id": 2
+    }
+  ]
+}
